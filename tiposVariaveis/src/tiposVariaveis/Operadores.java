@@ -11,6 +11,8 @@ public class Operadores {
 		
 		System.out.println(resultado);
 		
+		System.out.println("teste");
+		
 		
 	}
 
